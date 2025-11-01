@@ -1,2 +1,3 @@
 This is my first line 
 demonstration of git pull command from remote repo. (updated remote repo, missing information in local repo)
+this is my second demo. on updating remote repo then pull from the local repo
