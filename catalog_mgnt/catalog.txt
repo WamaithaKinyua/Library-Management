@@ -2,3 +2,7 @@ This is my first line
 This statement is for undoing things  
 Today is 1st Nov. 2025
 this statement................ is for learning how to undo things in git
+This is my first line 
+demonstration of git pull command from remote repo. (updated remote repo, missing information in local repo)
+this is my second demo. on updating remote repo then pull from the local repo
+this is a new change llalala
