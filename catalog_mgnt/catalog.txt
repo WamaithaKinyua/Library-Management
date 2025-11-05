@@ -1,1 +1,4 @@
-This is my first line 
+This is my first line
+This statement is for undoing things  
+Today is 1st Nov. 2025
+this statement................ is for learning how to undo things in git
